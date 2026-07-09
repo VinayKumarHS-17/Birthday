@@ -2369,7 +2369,7 @@ Name slice
 =================================================*/ 
 
 const textElement = document.getElementById("slice-text");
-const text = "Favorite Person";
+const text = "✨ Feona Sanofer 🎈";
 let index = 0;
 
 function sliceText() {
